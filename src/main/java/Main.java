@@ -19,7 +19,7 @@ public class Main {
                 break;
             }
             pisteet++;
-            System.out.println("Oikein! Taidatkin olla varsinainen mestari!");
+            System.out.println("Oikein! Taidatkin olla varsinainen taituri!");
         }
     }
 }
