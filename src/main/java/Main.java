@@ -14,7 +14,7 @@ public class Main {
             Question question = questions.get(questionNumber);
 
             if(!QuestionHelper.askQuestion(question)){
-                System.out.println("Vastasit väärin typerys!");
+                System.out.println("Vastasit väärin!");
                 System.out.println("Sait " + pisteet + " pistettä :)))");
                 break;
             }
